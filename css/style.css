@@ -1,0 +1,42 @@
+.sajek{
+    background-color: aquamarine;
+    border: 5px outset lightcoral;
+    border-radius: 10px;
+    padding: 10px;
+}
+small span{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+.coxbazar{
+background-color: beige;
+border: 10px outset green;
+border-radius: 10px;
+margin-top: 10px;
+margin-bottom: 20px;
+margin-right: 10px;
+margin-left: 10px;
+padding: 20px;
+}
+.text-align{
+text-align: center;
+font-size: 3em;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 500;
+
+}
+.coxbazar P{
+color: blueviolet;
+text-align: justify;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sajek p{
+color: white;
+text-align: justify;
+}
+.coxbazar p{
+    display: inline;
+}
+.coxbazar span{
+    display: block;
+}
